@@ -18,8 +18,6 @@ tags:
 npm install hexo-asset-image # or yarn add hexo-asset-image
 ```
 
-<!-- more -->
-
 ## 设置Hexo
 
 ```bash

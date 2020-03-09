@@ -94,7 +94,7 @@ profile:
   email: i@kangna.moe
 
   # You can set Avatar URL directly
-  avatar: https://i.loli.net/2020/03/02/V7u4ekY5hcarm2Z.png
+  avatar: 646470.png
 
   bio: The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts.
 
@@ -323,7 +323,7 @@ data_prefix:
 data_dir:
 
 # Favicon, default to `favicon.ico`
-favicon:
+favicon: 646470.png
 
 # Google analytics
 # ga: UA-00000000-0
