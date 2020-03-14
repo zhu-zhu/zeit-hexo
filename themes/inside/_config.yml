@@ -94,7 +94,7 @@ profile:
   email: i@kangna.moe
 
   # You can set Avatar URL directly
-  avatar: 646470.png
+  avatar: assets/646470.png
 
   bio: 私（わたし）たちはきっと1000回もメールをやりとりして、たぶん心は１センチくらいしか近づけませんでした
 
@@ -325,7 +325,7 @@ data_prefix:
 data_dir:
 
 # Favicon, default to `favicon.ico`
-favicon: 646470.png
+favicon: assets/646470.png
 
 # Google analytics
 # ga: UA-00000000-0

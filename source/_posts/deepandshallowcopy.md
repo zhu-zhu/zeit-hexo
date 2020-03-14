@@ -231,5 +231,6 @@ console.log(obj1, obj2)
 
 ## Done
 
-参考文章
-https://juejin.im/post/59ac1c4ef265da248e75892b#heading-3
+### 参考文章
+
+[js 深拷贝 vs 浅拷贝](https://juejin.im/post/59ac1c4ef265da248e75892b#heading-3)
