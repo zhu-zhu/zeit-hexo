@@ -4,7 +4,7 @@ date: 2020-03-13 17:03:45
 thumbnail: 690236.jpg
 categories: Development
 tags:
-- Development
+- Event loop
 - JavaScript
 ---
 
@@ -62,7 +62,7 @@ console.log('script end')
 
 解析
 
-1. 执行到`console.log('script start')`时输出`script start` 
+1. 执行到`console.log('script start')`时输出`script start`
 2. 遇到到`setTimeout`时，将代码回调`console.log('setTimeout')`放入宏任务队列中等待执行
 3. 遇到`Promise.resolve().then`时将`console.log('promise1')` `console.log('promise2')`按顺序放入微任务队列
 4. 执行到`console.log('script end')`时输出`script end`

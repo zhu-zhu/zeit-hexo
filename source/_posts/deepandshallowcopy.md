@@ -4,7 +4,7 @@ date: 2020-03-09 17:48:22
 thumbnail: 705238.png
 categories: Development
 tags:
-- Development
+- Deep Copy & Shallow Copy
 - JavaScript
 ---
 
@@ -47,7 +47,7 @@ person2       |     ----->    | { name: 'jerry' }
 var a = 10
 var b = a
 
-b ++ 
+b ++
 
 console.log(a, b) // 10 11
 ```
