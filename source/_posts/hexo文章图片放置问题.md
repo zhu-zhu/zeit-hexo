@@ -8,10 +8,6 @@ tags:
 - Development
 ---
 
-<!--
-  thumbnail 900 * 290
- -->
-
 ## 使用插件
 
 ```bash
