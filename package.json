@@ -17,7 +17,7 @@
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-renderer-sass": "^0.4.0",
     "hexo-renderer-marked": "^1.0.1",
-    "hexo-server": "^0.3.3"
+    "hexo-server": "^1.0.0"
   },
   "scripts": {
     "dev": "hexo server -p $PORT",
