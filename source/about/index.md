@@ -6,7 +6,6 @@ meta: true
 
 ## 我
 
-* 学生（伪社畜）
 * Front end Development
 
 ## 本站
